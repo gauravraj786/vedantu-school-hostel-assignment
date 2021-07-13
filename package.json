@@ -1,0 +1,16 @@
+{
+  "name": "Vedantu-Assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Gaurav Raj Bansal",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {
+    "prompt-async": "^0.9.9"
+  }
+}
