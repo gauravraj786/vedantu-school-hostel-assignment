@@ -1,4 +1,4 @@
-# school_hostel_assignment
+# school-hostel-assignment
 School hostel assignment app
 
 Clone the Github repository.
